@@ -2,7 +2,7 @@ void problemSolution1(float consumed_water) {
     float cost;
     int f30, n20, n10, additional;
     // write your code here
-    cin >> consumed_water;
+    //cin >> consumed_water;
     if (consumed_water <=30){
         cost = 13 + consumed_water * 0.4;
 
